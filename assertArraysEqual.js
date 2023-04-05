@@ -1,5 +1,5 @@
 
-const eqArrays = function(arr1, arr2) {
+const assertArrayEqual = function(arr1, arr2) {
   for(a1 of arr1) {
     console.log(a1);
   }
