@@ -15,6 +15,7 @@ const findKey = (obj, func) => {
   return undefined;
 }
 
+module.exports = findKey;
 
 console.log(findKey({
   "Blue Hill": { stars: 1 },

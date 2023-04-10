@@ -18,4 +18,6 @@ const countLetter = function(string) {
   return countedStr;
 }
 
+module.exports = countLetter;
+
 console.log(countLetter("lighthouse in the house"));
