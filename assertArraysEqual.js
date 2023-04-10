@@ -1,4 +1,5 @@
 
+
 const assertArraysEqual = function(arr1, arr2) {
   for(a1 of arr1) {
     console.log(a1);
@@ -12,3 +13,5 @@ const assertArraysEqual = function(arr1, arr2) {
     console.log(`🛑🛑🛑Assertion Failed: ${a1} !== ${a2}`);
   }
 }
+
+module.exports = assertArraysEqual;
