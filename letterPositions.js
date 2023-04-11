@@ -42,6 +42,8 @@ const letterPositions = function(sentence) {
 
 module.exports = letterPositions;
 
+
 assertArraysEqual(letterPositions("hello").e, [1]);
 
+console.log(letterPositions("hello") , typeof letterPositions("hello").e, typeof [1])
 console.log(letterPositions("hello").l)

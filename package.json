@@ -1,6 +1,6 @@
 {
   "name": "@boomcha/lotide",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "all function that I learned from lighthouse lab",
   "main": "assertArraysEqual.js",
   "directories": {
