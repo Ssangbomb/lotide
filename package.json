@@ -1,7 +1,7 @@
 {
-  "name": "lotide",
+  "name": "@boomcha/lotide",
   "version": "1.0.0",
-  "description": "",
+  "description": "all function that I learned from lighthouse lab",
   "main": "assertArraysEqual.js",
   "directories": {
     "test": "test"
@@ -13,7 +13,7 @@
     "type": "git",
     "url": "git+https://github.com/Ssangbomb/lotide.git"
   },
-  "author": "",
+  "author": "BoomCha",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/Ssangbomb/lotide/issues"
